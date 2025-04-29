@@ -1,0 +1,2 @@
+we can add google firebase. from firebase we can get categories and products with unique ids. we also use local storage shared pref. we can store product in categories and fetch this from firebase to show category wise data.
+can use getx state management tool for showing changes ib app globaly.
